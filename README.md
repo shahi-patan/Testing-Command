@@ -1,5 +1,3 @@
 # Testing-Command
 
-# Project Title
-
-This is a simple project to demonstrate how to work with Git and GitHub using the command line.
+<p>Shahi Testing Git and GitHub Commands</p>
